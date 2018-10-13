@@ -1,6 +1,6 @@
 # DON'T PANIC! Website
 
-DON'T PANIC! is the Loyola coding club. A club made from wholesome people to wholesome people.
+DON'T PANIC! is the Loyola coding club. A club made by wholesome people for wholesome people.
 
 ## Getting Started
 
@@ -27,6 +27,7 @@ Since it's a coding club Capstone Project, just club members can submit code. Ar
 * **Jonathan Warkentin** - *Github Manager, alongside Lucas* - JS, and React
 * **Janeen Soria** - JS, and React
 * **Linette Maliakal** - Design, and Bootstrap
+* **Martin Zugschwert** - Bootstrap
 * **Makenna Walsh** - Design, and HTML/CSS
 * **Emmanuel Amobi** - HTML/CSS
 
