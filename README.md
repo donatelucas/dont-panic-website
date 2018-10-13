@@ -19,7 +19,7 @@ No prerequisites. It's a simple stack. You don't know what a stack is? Don't fre
 
 ## Contributing
 
-Since it's a coding club Capstone Project, just club members can submit code. Are you a Loyola student, interested in CS, and interested on being a part of the club? E-mail us on dontpanic.luc@gmail.com or check out [DON'T PANIC!](dontpanic.cs.luc.edu) for more information.
+Since it's a coding club Capstone Project, just club members can submit code. Are you a Loyola student, interested in CS, and interested on being a part of the club? E-mail us on dontpanic.luc@gmail.com or check out [DON'T PANIC!]<dontpanic.cs.luc.edu> for more information.
 
 ## Authors
 
