@@ -24,14 +24,14 @@ Since it's a coding club Capstone Project, just club members can submit code. Ar
 ## Authors
 
 * **Lucas Perez** - *Manager, consultant, and magic maker* - When everything fails, call Lucas
-* **Jonathan Warkentin** - *Github Manager, alongise Lucas* - JS, and React
+* **Jonathan Warkentin** - *Github Manager, alongside Lucas* - JS, and React
 * **Janeen Soria** - JS, and React
 * **Linette Maliakal** - Design, and Bootstrap
-* **Makenna Walsh** - Design, and ?
+* **Makenna Walsh** - Design, and HTML/CSS
 * **Emmanuel Amobi** - HTML/CSS
 
 See also the list of [contributors](https://github.com/donatelucas/dont-panic-website/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
