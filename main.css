@@ -28,10 +28,12 @@ div{
     background-color: #ddd;
     height: auto;
     width: auto;
+    overflow: auto;
 
 }
 
 p {
+    text-align: justify;
     margin: 20px;
 }
 .logo_styling {
@@ -93,5 +95,14 @@ a{
 }
 
 .board_photos {
-    
+    float: left;
+    margin: 10px;
+    height: 150px;
+    width: auto;
 }
+
+.aboutus p {
+    margin: -5px;
+    margin-left: 10px;
+}
+
