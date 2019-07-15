@@ -4,7 +4,7 @@
 .navbar-nav > li{
   padding-left:2.5px;
   padding-right:2.5px;
-  font-size:2rem;
+  font-size:1rem;
 }
 
 @media (min-width: 992px) {
