@@ -23,7 +23,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; text-align:center}
 
 p{ text-align: center; font-size: 1.3rem;  padding-left:100px; padding-right:100px; padding-top:5px; padding-bottom:5px}
 
-li.meeting{ font-size: 1rem; text-align: center; padding-left:100px; padding-right:100px; padding-bottom:10px; padding-top:10px}
+li.meeting{ font-size: 1.3rem; text-align: center; padding-left:100px; padding-right:100px; padding-bottom:10px; padding-top:10px}
 
 img.center {
   max-width: 55%;
@@ -78,4 +78,8 @@ input[type=submit]:hover {
   margin-top: 50px; /* Add a top margin */
   margin-bottom: 50px; /* Bottom margin */
   
+}
+
+label {
+	font-size: 1.3rem;
 }
