@@ -23,10 +23,10 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; text-align:center}
 
 p{ text-align: center; font-size: 1.3rem;  padding-left:100px; padding-right:100px; padding-top:5px; padding-bottom:5px}
 
-li.meeting{ font-size: 1rem; text-align: center; padding-left:100px; padding-right:100px;}
+li.meeting{ font-size: 1rem; text-align: center; padding-left:100px; padding-right:100px; padding-bottom:20px; padding-top:20px}
 
 img.center {
-  max-width: 40%;
+  max-width: 55%;
   height: auto;
 }
 
@@ -46,7 +46,7 @@ input[type=text], select, textarea {
   border-radius: 4px; /* Rounded borders */
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 12px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
+  margin-bottom: 12px; /* Bottom margin */
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
@@ -68,10 +68,9 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #E0E0E0;
   padding: 20px;
   margin-top: 50px; /* Add a top margin */
   margin-bottom: 50px; /* Bottom margin */
-  padding-left:50px; 
-  padding-right:50px;
+  
 }
