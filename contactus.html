@@ -52,16 +52,16 @@
 					<a class="nav-link" href="https://dontpanic.cs.luc.edu/pastevents.html">Past Events</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="exec.html">Executive Board</a>
+					<a class="nav-link" href="https://dontpanic.cs.luc.edu/exec.html">Executive Board</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="contactus.html">Contact Us</a>
+					<a class="nav-link" href="https://dontpanic.cs.luc.edu/contactus.html">Contact Us</a>
 				</li>
 			</ul>
 		</div>
 	</nav>	
     	<div class="container">
-  <form action="action_page.php">
+  <form action="send_form_email.php">
   
 	<h4>Contact Us</h4>
 
@@ -70,11 +70,14 @@
 
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name">
+	
+	<label for="lname">Loyola Email Address</label>
+    <input type="text" id="email" name="email" placeholder="Your Loyola email">
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something" style="height:200px"></textarea>
 
-    <input type="submit" value="Submit">
+    <input type="submit" value="Submit"></input>
 
   </form>
 </div>
