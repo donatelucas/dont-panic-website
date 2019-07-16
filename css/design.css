@@ -4,7 +4,7 @@
 .navbar-nav > li{
   padding-left:2.5px;
   padding-right:2.5px;
-  font-size:2rem;
+  font-size:1rem;
 }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem; text-align:center}
 h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; text-align:center}
@@ -20,6 +20,10 @@ li.meeting{ font-size: 1rem; text-align: center;}
 img.center {
   max-width: 40%;
   height: auto;
+}
+
+img.Icon{
+	width: 50px;
 }
 
 .nav-link:hover {
