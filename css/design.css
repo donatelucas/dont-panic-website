@@ -1,7 +1,5 @@
 .navbar{
 	font-size: 27px;
-	padding-left: 243px;
-	padding-right: 243px;
 }
 .navbar-nav > li{
   padding-left:2.5px;
@@ -76,7 +74,7 @@ input[type=submit]:hover {
 .container {
   border-radius: 5px;
   background-color: #E0E0E0;
-  padding: 15px;
+  padding: 20px;
   margin-top: 50px; /* Add a top margin */
   margin-bottom: 50px; /* Bottom margin */
   
